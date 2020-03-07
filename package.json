@@ -2,6 +2,7 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://athapa20.github.io/myportfolio-create-react-app",
   "dependencies": {
     "@carbon/icons-react": "^10.9.1",
     "@carbon/themes": "^10.10.1",
